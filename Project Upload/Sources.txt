@@ -1,0 +1,5 @@
+Trade In Goods (Exports): https://data.oecd.org/trade/trade-in-goods.htm#indicator-chart
+Trade In Services (Exports): https://data.oecd.org/trade/trade-in-services.htm#indicator-chart
+Inflation: https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
+Inflation Japan: https://fred.stlouisfed.org/series/FPCPITOTLZGJPN
+Inflation Britain: https://fred.stlouisfed.org/series/FPCPITOTLZGGBR
